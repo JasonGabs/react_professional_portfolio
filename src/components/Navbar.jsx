@@ -21,9 +21,9 @@ const Navbar = () => {
                 <li className="text-xl px-10 ">Contact</li>
             </ul>
             <div onClick={manageNav} className="block md:hidden">
-                {!nav ? <AiOutlineClose size={30}/> : <LuMenu size={30} />}
+                {!nav ? <LuMenu  size={30}/> : <AiOutlineClose size={30} />}
             </div>
-            <div className={!nav ? "fixed left-0 top-0 w-[80%] border-r border-r-grey-400 h-full bg-purple-400 ease-in-out duration-500" : "fixed left-[-100%]"}>
+            <div className={nav ? "fixed left-0 top-0 w-[80%] border-r border-r-grey-400 h-full bg-purple-400 ease-in-out duration-500" : "fixed left-[-100%]"}>
                 <h1 className="w-full p-6 font-bold text-5xl">
                     Jason Gabianelli
                 </h1>
