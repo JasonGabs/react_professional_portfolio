@@ -8,7 +8,7 @@ import tictacdoh from "../assets/tictacdoh.png";
 import workDay from "../assets/workDay.png";
 import retracked from "../assets/retracked.png";
 
-const Card = () => {
+const Projects = () => {
     return (
         <h1 class="text-center text-5xl pt-6 bg-purple-400"> Projects
             <ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 mt-8">
@@ -21,7 +21,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">Generate a password!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={passwordGenerator} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={passwordGenerator} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -45,7 +45,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">Answer mutiple choice questions!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={multipleChoiceQuiz} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={multipleChoiceQuiz} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -68,7 +68,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">Schedule the work day!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={workDay} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={workDay} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -91,7 +91,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">Look up covers for songs!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={retracked} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={retracked} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -115,7 +115,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">Take some notes at the press of a button!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={noteTaker} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={noteTaker} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -138,7 +138,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">A stand alone offline text editor!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={textEditor} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={textEditor} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -161,7 +161,7 @@ const Card = () => {
                             </div>
                             <p class="text-left mt-1 truncate text-sm text-gray-500">Tic-tac-toe with a simpsons theme and personal accounts!</p>
                         </div>
-                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-purple-400 bg-gray-300" src={tictacdoh} alt="" />
+                        <img class="h-20 w-32 flex-shrink-0 rounded-sm outline outline-1 outline-black bg-gray-300" src={tictacdoh} alt="" />
                     </div>
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
@@ -180,4 +180,4 @@ const Card = () => {
     )
 }
 
-export default Card;
+export default Projects;

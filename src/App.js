@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Card from "./components/Card";
+import Projects from "./components/Projects";
 import './App.css';
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <>
     <Navbar />
     <Hero />
-    <Card />
+    <Projects />
     </>
   );
 }

@@ -16,8 +16,7 @@ const Navbar = () => {
             </h1>
             <ul className="hidden lg:flex font-semibold ">
                 <li className="text-xl px-10 ">About</li>
-                <li className="text-xl px-10 ">Featured</li>
-                <li className="text-xl px-10 ">All</li>
+                <li className="text-xl px-10 ">Projects</li>
                 <li className="text-xl px-10 ">Contributions</li>
                 <li className="text-xl px-10 ">Contact</li>
             </ul>
@@ -30,8 +29,7 @@ const Navbar = () => {
                 </h1>
                 <ul className="pt-12 uppercase">
                     <li className="text-2xl font-semibold p-5 border-b">About</li>
-                    <li className="text-2xl font-semibold p-5 border-b">Featured</li>
-                    <li className="text-2xl font-semibold p-5 border-b">All</li>
+                    <li className="text-2xl font-semibold p-5 border-b">Projects</li>
                     <li className="text-2xl font-semibold p-5 border-b">Contributions</li>
                     <li className="text-2xl font-semibold p-5 border-b">Contact</li>
                 </ul>
