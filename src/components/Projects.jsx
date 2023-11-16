@@ -26,7 +26,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://jasongabs.github.io/Password_Generator/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
@@ -50,7 +50,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://jasongabs.github.io/Multiple_Choice_Quiz/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
@@ -73,7 +73,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://jasongabs.github.io/Calendar_Planer/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
@@ -96,7 +96,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://mycomplex.github.io/enigmatic_syntax_re-tracked/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
@@ -120,7 +120,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://note-taker-jason-d262c50fcc11.herokuapp.com/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
@@ -143,7 +143,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://quiet-island-76570-f0e973158dd2.herokuapp.com/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
@@ -166,7 +166,7 @@ const Projects = () => {
                     <div>
                         <div class="-mt-px flex divide-x divide-gray-200">
                             <div class="flex w-0 flex-1">
-                                <a href="" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
+                                <a href="https://tic-tac-doh-37df013dc60d.herokuapp.com/" class="relative -mr-px inline-flex w-0 flex-1 items-center justify-center gap-x-3 rounded-bl-lg border border-transparent py-4 text-sm font-semibold text-gray-900">
                                     <FaLocationArrow />
                                     Go to Project
                                 </a>
