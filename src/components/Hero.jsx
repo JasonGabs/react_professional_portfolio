@@ -1,5 +1,5 @@
 import React from "react";
-import personalPhoto from "../assets/personalPhoto.jpg";
+import personalPhoto from "../assets/personalPhoto.png";
 const Hero = () => {
     return (
         <>
