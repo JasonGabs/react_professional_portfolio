@@ -2,9 +2,17 @@ import React from "react";
 
 const Contact = () => {
     return (
-        <div className=" text-3xl">
-            Contact
-        </div>
+        <>
+            <div id="contact" className=" bg-blue-300 p-8 text-5xl text-center">
+                Contact
+            </div>
+            <div className="bg-blue-300 text-3xl p-4">
+                If you'd like to contact me, here is my LinkedIn
+            </div>
+            <a href="https://www.linkedin.com/in/jason-gabianelli-640b20212/ "className="flex truncate bg-blue-300 text-3xl p-4 min-w-full">
+            https://www.linkedin.com/in/jason-gabianelli-640b20212/
+            </a>
+        </>
     )
 }
 

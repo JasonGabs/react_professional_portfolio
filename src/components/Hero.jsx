@@ -3,7 +3,7 @@ import personalPhoto from "../assets/personalPhoto.png";
 const Hero = () => {
     return (
         <>
-            <div className="sm:flex flex-initial block">
+            <div id="aboutme" className="sm:flex flex-initial block">
                 <div className="flex flex-col">
                     
                     <h1 className=" bg-blue-800 p-8 text-5xl text-blue-200 text-center">
