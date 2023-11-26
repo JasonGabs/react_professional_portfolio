@@ -10,7 +10,7 @@ import retracked from "../assets/retracked.png";
 
 const Projects = () => {
     return (
-        <h1 id="projects" class="text-center text-5xl pt-6 bg-purple-400"> Projects
+        <h1 id="projects" class="text-center font-serif text-5xl pt-6 outline outline-1 bg-purple-300"> Projects
             <ul class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 mt-8">
                 <li class="col-span-1 divide-y divide-gray-200 rounded-lg bg-white shadow">
                     <div class="flex w-full items-center justify-between space-x-6 p-6">
