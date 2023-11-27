@@ -11,7 +11,7 @@ const Contributions = () => {
                     <li class="flex justify-between gap-x-6 p-5 bg-slate-200  outline-cyan-500">
                         <div class="flex min-w-0 gap-x-4">
                             <div class="min-w-0 flex-auto bg-slate-200">
-                                <p class=" text-lg font-semibold font-serif leading-6 py-1 text-gray-900">needecon.org</p>
+                                <a href="https://needecon.org/" class=" text-lg font-semibold font-serif leading-6 py-1 text-gray-900">needecon.org</a>
                             </div>
                         </div>
                         <p class=" flex-1 mt-1 py-1 truncate leading-5 text-gray-500 text-xl">Contributed to mutiple pages</p>
@@ -20,7 +20,7 @@ const Contributions = () => {
                     <li class="flex justify-between gap-x-6 p-5 bg-slate-300 outline-cyan-500">
                         <div class="flex min-w-0 gap-x-4">
                             <div class="min-w-0 flex-auto bg-slate-300">
-                                <p class="text-lg font-semibold font-serif leading-6 py-1 text-gray-900">pacificneurofeedback.com</p>
+                                <a href="https://www.pacificneurofeedback.com/" class="text-lg font-semibold font-serif leading-6 py-1 text-gray-900">pacificneurofeedback.com</a>
                             </div>
                         </div>
                         <p class="flex-1 mt-1 truncate leading-5 py-1 text-gray-500 text-xl">Contributed to mutiple pages</p>
