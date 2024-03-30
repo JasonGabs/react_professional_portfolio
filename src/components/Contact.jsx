@@ -7,7 +7,7 @@ const Contact = () => {
                 Contact
             </div>
             <div className="bg-blue-200 font-serif text-3xl p-4">
-                Click on the link for my LinkedIn if you'd like to contact me:
+                jasongabs@gmail.com
             </div>
             <a href="https://www.linkedin.com/in/jason-gabianelli-640b20212/" target="_blank" rel="noreferrer" className="flex truncate font-serif bg-blue-300 text-3xl text-blue-700 p-4 min-w-full underline">
                 https://www.linkedin.com/in/jason-gabianelli-640b20212/
